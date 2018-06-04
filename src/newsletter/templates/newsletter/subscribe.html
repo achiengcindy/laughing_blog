@@ -1,11 +1,18 @@
 {% extends "base.html" %}
 {% block content %}
+{% if messages %}
+<ul class="messages">
+{% for message in messages %}
+<li{% if message.tags %} class="{{ message.tags }}"{% endif %}>{{ message }}</li>
+  {% endfor %}
+ </ul>
+  {% else %}
 <form action="{% url 'newsletter:subscribe' %}" method="post">
 	{% csrf_token %}
 	{{ form.as_p }}
 	<button type="submit">Submit</button>
 </form>
+{% endif %}
 {% endblock %}
-
 
 

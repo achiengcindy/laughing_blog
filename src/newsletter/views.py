@@ -1,8 +1,8 @@
 from django.shortcuts import render
-from django.core.mail import send_mail
+from django.contrib import messages
 
 from .forms import NewsUserForm
-from . models import NewsUsers
+from .models import NewsUsers
 from .emails import send_multiple_email
 
 
@@ -12,10 +12,10 @@ def newsletter_subscribe(request):
     if form.is_valid():
       instance = form.save(commit=False)#we dont want to save just yet
       if NewsUsers.objects.filter(email=instance.email).exists():
-        print('your email Already exists in our database')
+        messages.warning(request, "your Email Already exists in our database")
       else:
         instance.save()
-        print('your email has been submitted to our database')
+        messages.success(request, "your Email has been submitted to our database")
         #send_mail('Laughing blog tutorial series','welcome','mail@achiengcindy.com',['instance.email'], fail_silently=False)
         send_multiple_email('name', 'email')
         
