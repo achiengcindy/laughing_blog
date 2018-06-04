@@ -1,0 +1,5 @@
+Hello {{name}}
+
+Welcome to Laughing Blog  Newsletter and thank you for signing up. 
+
+You will find the most exciting news about Python, Django,Programming tips and web development tools that will go along way to see you grow your skills

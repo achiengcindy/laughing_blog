@@ -6,7 +6,7 @@ def send_multiple_email(name, receiver):
     sender = 'mail@achiengcindy.com'
 
     #passing in the context vairables
-    text_template = render_to_string('newsletter/subscribe.txt',{"name": name})
+    text_template = render_to_string('newsletter/email-subscribe.txt',{"name": name})
     html_template = render_to_string('newsletter/email-subscribe.html',{"name": name})
 
     message = EmailMultiAlternatives(subject,text_template,sender, [receiver])
