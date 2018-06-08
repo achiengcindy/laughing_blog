@@ -18,5 +18,6 @@ from django.urls import path,include
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('newsletter/',include('newsletter.urls' , namespace='newsletter'))
+    path('newsletter/',include('newsletter.urls' , namespace='newsletter')),
+    path('accounts/', include('django.contrib.auth.urls')),
 ]
