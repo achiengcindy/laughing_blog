@@ -19,7 +19,6 @@ ALLOWED_HOSTS = []
 # Application definition
 
 INSTALLED_APPS = [
-    'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
     'django.contrib.sessions',
@@ -27,6 +26,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'newsletter',
     'accounts',
+    'django.contrib.admin',
 ]
 
 MIDDLEWARE = [
@@ -119,3 +119,4 @@ MEDIA_ROOT=  os.path.join(BASE_DIR,  "media_cdn")
 STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'
 
 
+LOGIN_REDIRECT_URL = '/'
