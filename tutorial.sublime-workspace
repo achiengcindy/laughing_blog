@@ -1,0 +1,409 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"re",
+				"recipient"
+			],
+			[
+				"c",
+				"cover"
+			],
+			[
+				"bac",
+				"background-size"
+			],
+			[
+				"comment",
+				"comment-author"
+			],
+			[
+				"co",
+				"comment-reply-"
+			],
+			[
+				"comme",
+				"comment-reply"
+			],
+			[
+				"posit",
+				"position"
+			],
+			[
+				"a",
+				"alt\tAttr"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"inst",
+				"installed"
+			],
+			[
+				"wo",
+				"worker"
+			],
+			[
+				"add",
+				"addEventListener"
+			],
+			[
+				"the",
+				"then"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"fle",
+				"flex-direction"
+			],
+			[
+				"fl",
+				"flex-direction"
+			],
+			[
+				"wr",
+				"word-wrap"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"col",
+				"col-sm-4"
+			],
+			[
+				"te",
+				"text-transform"
+			],
+			[
+				"tr",
+				"transform"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"ba",
+				"background-image"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"b",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 340.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/cindy/Documents/testn/index.js",
+		"/home/cindy/Documents/achiengblog_v2/src/accounts/templates/accounts/register_done.html",
+		"/home/cindy/Documents/achiengblog_v2/src/accounts/views.py",
+		"/home/cindy/Documents/achiengblog_v2/src/accounts/templates/accounts/register.html",
+		"/home/cindy/Documents/achiengblog_v2/src/accounts/forms.py",
+		"/home/cindy/Documents/achiengblog_v2/src/blog/admin.py",
+		"/home/cindy/Documents/achiengblog_v2/src/blog/models.py",
+		"/home/cindy/Documents/achiengblog_v2/src/blog/views.py",
+		"/home/cindy/Documents/achiengblog_v2/src/blog/templates/blog/post/list.html",
+		"/home/cindy/Documents/achiengblog_v2/src/accounts/models.py",
+		"/home/cindy/Documents/achiengblog_v2/src/blog/templates/blog/post/detail.html",
+		"/home/cindy/Documents/achiengblog_v2/src/accounts/authentication.py",
+		"/home/cindy/Documents/achiengblog_v2/src/mysite/urls.py",
+		"/home/cindy/Documents/achiengblog_v2/src/accounts/admin.py",
+		"/home/cindy/Documents/achiengblog_v2/src/mysite/settings.py",
+		"/home/cindy/Documents/achiengblog_v2/src/accounts/templates/registration/password_reset_done.html",
+		"/home/cindy/Documents/achiengblog_v2/src/accounts/templates/registration/password_reset_confirm.html",
+		"/home/cindy/Documents/achiengblog_v2/src/accounts/templates/registration/login.html",
+		"/home/cindy/Documents/blog/src/accounts/models.py",
+		"/home/cindy/Documents/blog/src/blog/views.py",
+		"/home/cindy/Documents/blog/src/accounts/templates/accounts/edit.html",
+		"/home/cindy/Documents/blog/src/mysite/urls.py",
+		"/home/cindy/Documents/blog/src/accounts/views.py",
+		"/home/cindy/Documents/blog/src/accounts/forms.py",
+		"/home/cindy/Documents/blog/src/blog/models.py",
+		"/home/cindy/Documents/websites_projects/src/achiengcindyblog/urls.py",
+		"/home/cindy/Documents/websites_projects/src/achiengcindyblog/settings.py",
+		"/home/cindy/Documents/tutorial/src/newsletter/views.py",
+		"/home/cindy/Documents/tutorial/src/.gitignore",
+		"/home/cindy/Documents/tutorial/src/.env",
+		"/home/cindy/Documents/tutorial/src/laughing_blog/settings.py",
+		"/home/cindy/Documents/tutorial/src/newsletter/models.py",
+		"/home/cindy/Documents/tutorial/src/newsletter/admin.py",
+		"/home/cindy/Documents/tutorial/src/newsletter/forms.py",
+		"/home/cindy/Documents/achieng_blog_v2/src/static/css/styles1.css",
+		"/home/cindy/Documents/achieng_blog/src/blog/templates/blog/post/list1.html",
+		"/home/cindy/Documents/achieng_blog/src/templates/<div class=\"comments-area\">",
+		"/home/cindy/Documents/achieng_blog/src/blog/templates/blog/post/detail1.html",
+		"/home/cindy/Documents/achieng_blog/src/blog/templates/blog/post/list.html",
+		"/home/cindy/Documents/achieng_blog_v2/src/templates/base.html",
+		"/home/cindy/Documents/achieng_blog/src/blog/views.py",
+		"/home/cindy/Desktop/wittr/public/js/sw/index.js",
+		"/home/cindy/Desktop/wittr/public/js/sw/hh.html",
+		"/home/cindy/Desktop/wittr/public/scss/_theme.scss",
+		"/home/cindy/Desktop/wittr/public/js/main/IndexController.js",
+		"/home/cindy/Documents/Alc3WithGoogle/wittr/public/js/sw/index.js",
+		"/home/cindy/Documents/achieng_blog/src/static/css/atelier-estuary-light.css",
+		"/home/cindy/Documents/achieng_blog/src/static/css/styles2.css",
+		"/home/cindy/Documents/lists/negative_index.py",
+		"/home/cindy/Documents/lists/indexing.py",
+		"/home/cindy/Documents/achieng_blog/src/templates/sidebar.html",
+		"/home/cindy/Documents/achieng_blog/src/static/css/styles1.css",
+		"/home/cindy/Documents/cindy/Django Books/Django_By_Example_Code/Chapter 3/mysite/blog/templates/blog/post/list.html",
+		"/home/cindy/Documents/achieng_blog/src/blog/templates/blog/post/detail.html",
+		"/home/cindy/Documents/achieng_blog/src/blog/templates/base.html",
+		"/home/cindy/Documents/achieng_blog/src/templates/base.html",
+		"/home/cindy/Documents/achieng_blog/src/static/css/styles.css",
+		"/home/cindy/Documents/achieng_blog/src/static/css/tomorrow.css",
+		"/home/cindy/Documents/achieng_blog/src/accounts/templates/accounts/login.html",
+		"/home/cindy/Documents/achieng_blog/src/accounts/templates/account/login.html",
+		"/home/cindy/Documents/achieng_blog/src/accounts/templates/account/base.html",
+		"/home/cindy/Documents/achieng_blog/src/accounts/templates/account/signup.html",
+		"/home/cindy/Documents/achieng_blog/src/accounts/templates/account/logout.html",
+		"/home/cindy/Documents/achieng_blog/src/accounts/templates/base.html",
+		"/home/cindy/Documents/achieng_blog/src/newsletter/templates/newsletter/subscribe.html",
+		"/home/cindy/Documents/achieng_blog/src/newsletter/templates/newsletter/subscribe_email.txt",
+		"/home/cindy/Documents/achieng_blog/src/newsletter/templates/newsletter/subscribe_email.html",
+		"/home/cindy/Documents/achieng_blog/src/achiengblog/settingslive.py",
+		"/home/cindy/Documents/achieng_blog/src/newsletter/views.py",
+		"/home/cindy/Documents/achieng_blog/src/newsletter/templates/newsletter/unsubscribe_email.html",
+		"/home/cindy/Documents/achieng_blog/src/newsletter/templates/newsletter/unsubscribe_email.txt",
+		"/home/cindy/Documents/achieng_blog/src/newsletter/migrations/0004_auto_20180313_0956.py",
+		"/home/cindy/Documents/achieng_blog/src/newsletter/urls.py",
+		"/home/cindy/Documents/achieng_blog/src/staticfiles/staticfiles.json",
+		"/home/cindy/Documents/achieng_blog/src/achiengblog/settings.py",
+		"/home/cindy/Documents/achieng_blog/src/newsletter/forms.py",
+		"/home/cindy/Documents/achieng_blog/src/templates/metatags.html",
+		"/home/cindy/Documents/achieng_blog/src/achiengblog/urls.py",
+		"/home/cindy/Documents/achieng_blog/src/comm.html",
+		"/home/cindy/Documents/cindy/laughing-blog/src/newsletter/views.py",
+		"/home/cindy/Documents/achieng_blog/src/accounts/urls.py",
+		"/home/cindy/Documents/achieng_blog/src/blog/templates/note.html",
+		"/home/cindy/Documents/achieng_blog/src/.env",
+		"/home/cindy/Documents/achieng_blog/src/static",
+		"/home/cindy/Documents/achieng_blog/src/templates"
+	],
+	"find":
+	{
+		"height": 44.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 44.0
+	},
+	"input":
+	{
+		"height": 44.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 102.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 84.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 245.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
